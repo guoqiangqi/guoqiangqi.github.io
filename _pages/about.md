@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Hi there,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Hi there, i'm [QI](https://github.com/guoqiangqi)(he/his) 👋
+### I'm [QI](https://github.com/guoqiangqi)(he/his) 👋
   
 A software engineer with a hardware background, and a JiaoPian engineer at Huawei. In the early years, I focused on target detection and recognition in the field of deep learning. I came into contact with the community when I reproduced the PFLD network and released it as open source. After joining the Huawei 2012 Laboratory, I was responsible for optimizing industry and self-developed math libraries such as Eigen and Nubma, which were also contributed to the open source community. Currently, my role involves managing developer relations and experience (DevRel & DX) in the open source community and taking care of five kittens.
   
