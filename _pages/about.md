@@ -20,16 +20,16 @@ redirect_from:
 
 #### Languages and Tools
 
-<code><img height="20" src="../images/c.png" /></code>
-<code><img height="20" src="../images/cpp.png" /></code>
-<code><img height="20" src="../images/python.png" /></code>
-<code><img height="20" src="../images/tensorflow.png" /></code>
-<code><img height="20" src="../images/eigen.png" /></code>
-<code><img height="20" src="../images/numba.png" /></code>
-<code><img height="20" src="../images/linux.png" /></code>
-<code><img height="20" src="../images/argo.png" /></code>
-<code><img height="20" src="../images/docker.png" /></code>
-<code><img height="20" src="../images/kubenetes.png" /></code>
+<code><img height="20px" src="../images/c.png" /></code>
+<code><img height="20px" src="../images/cpp.png" /></code>
+<code><img height="20px" src="../images/python.png" /></code>
+<code><img height="20px" src="../images/tensorflow.png" /></code>
+<code><img height="20px" src="../images/eigen.png" /></code>
+<code><img height="20px" src="../images/numba.png" /></code>
+<code><img height="20px" src="../images/linux.png" /></code>
+<code><img height="20px" src="../images/argo.png" /></code>
+<code><img height="20px" src="../images/docker.png" /></code>
+<code><img height="20px" src="../images/kubenetes.png" /></code>
 
 ### Stats on Github
 <a href="https://github.com/guoqiangqi">
@@ -40,7 +40,7 @@ redirect_from:
 </a>
 
 ### Contact me 💬
-🏠 guoqiang.qi1@gmail.com | 🏢 <qiguoqiang2@huawei.com>
+🏠 <guoqiang.qi1@gmail.com> | 🏢 <qiguoqiang2@huawei.com>
 
 ### 关于我 ( About Me )
 开源爱好者，学硬件的软件工程师，华为胶片工程师。早期研究方向为深度学习领域目标检测&识别，因复现PFLD网络并开源接触社区；加入华为2012实验室后负责业界&自研数学库性能优化，开源 Eigen、Nubma 项目贡献者；当前负责开源社区开发者关系&体验(DevRel & DX)的运营和5个猫崽的铲屎工作。
