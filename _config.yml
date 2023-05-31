@@ -85,8 +85,8 @@ author:
   bio              : "Open source enthusiast, hardware-minded software engineer."
   location         : "Shenzhen, China"
   employer         :  "Huawei 2012 LAB"
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           :
+  googlescholar    :
   email            : "guoqiang.qi1@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : "http://stackoverflow.com/users/10628636/guoqiangqi"
