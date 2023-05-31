@@ -5,4 +5,6 @@ author_profile: true
 ---
 
 ### 混世魔王们 ( Mischievous Little Devils )
-https://github.com/guoqiangqi/guoqiangqi/assets/37530455/0eb2cd59-60f1-4c20-a47e-6729290149c0
+<video id="video" controls="" preload="none" poster="mischievous_little_devil">
+      <source id="mp4" src="../images/mischievous_little_devil.mp4" type="video/mp4">
+</videos>
