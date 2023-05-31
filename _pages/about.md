@@ -42,6 +42,6 @@ redirect_from:
 ### Contact me 💬
 🏠 <guoqiang.qi1@gmail.com> | 🏢 <qiguoqiang2@huawei.com>
 
-### 关于我 ( About Me )
-开源爱好者，学硬件的软件工程师，华为胶片工程师。早期研究方向为深度学习领域目标检测&识别，因复现PFLD网络并开源接触社区；加入华为2012实验室后负责业界&自研数学库性能优化，开源 Eigen、Nubma 项目贡献者；当前负责开源社区开发者关系&体验(DevRel & DX)的运营和5个猫崽的铲屎工作。
+### More
+A software engineer with a hardware background, and a JiaoPian engineer at Huawei. In the early years, I focused on target detection and recognition in the field of deep learning. I came into contact with the community when I reproduced the PFLD network and released it as open source. After joining the Huawei 2012 Laboratory, I was responsible for optimizing industry and self-developed math libraries such as Eigen and Nubma, which were also contributed to the open source community. Currently, my role involves managing developer relations and experience (DevRel & DX) in the open source community and taking care of five kittens.
 
