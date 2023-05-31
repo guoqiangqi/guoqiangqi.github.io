@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Guoqiang QI</br>齐国强"
   avatar           : "profile.png"
-  bio              : "An open source enthusiast, hardware-minded software engineer, and former Fujifilm engineer. Originally focused on object detection and recognition in the field of deep learning, they turned to community involvement through reproducing and open-sourcing the PFLD network. After joining the Huawei 2012 lab, they were responsible for performance optimization of industry and self-developed math libraries, contributing to the open source Eigen and Nubma projects. Currently responsible for developer relations and experience (DevRel & DX) operations in the open source community, as well as the cleanup duties of five cats."
+  bio              : "Open source enthusiast, hardware-minded software engineer."
   location         : "Shenzhen, China"
-  employer         :
+  employer         :  "Huawei 2012 LAB"
   pubmed           : ""
   googlescholar    : ""
   email            : "guoqiang.qi1@gmail.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : "http://stackoverflow.com/users/10628636/guoqiangqi"
