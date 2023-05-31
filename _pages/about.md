@@ -20,16 +20,16 @@ redirect_from:
 
 #### Languages and Tools
 
-<code><img height="20px" src="../images/c.png" /></code>
-<code><img height="20px" src="../images/cpp.png" /></code>
-<code><img height="20px" src="../images/python.png" /></code>
-<code><img height="20px" src="../images/tensorflow.png" /></code>
-<code><img height="20px" src="../images/eigen.png" /></code>
-<code><img height="20px" src="../images/numba.png" /></code>
-<code><img height="20px" src="../images/linux.png" /></code>
-<code><img height="20px" src="../images/argo.png" /></code>
-<code><img height="20px" src="../images/docker.png" /></code>
-<code><img height="20px" src="../images/kubenetes.png" /></code>
+<img height="20px" src="../images/c.png" >
+<img height="20px" src="../images/cpp.png" >
+<img height="20px" src="../images/python.png" >
+<img height="20px" src="../images/tensorflow.png" >
+<img height="20px" src="../images/eigen.png" >
+<img height="20px" src="../images/numba.png" >
+<img height="20px" src="../images/linux.png" >
+<img height="20px" src="../images/argo.png" >
+<img height="20px" src="../images/docker.png" >
+<img height="20px" src="../images/kubenetes.png" >
 
 ### Stats on Github
 <a href="https://github.com/guoqiangqi">
