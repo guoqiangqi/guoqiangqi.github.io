@@ -2,9 +2,6 @@
 permalink: /devils/
 title: "Devils"
 author_profile: true
-redirect_from: 
-  - /devils/
-  - /devils.html
 ---
 
 ### 混世魔王们 ( Mischievous Little Devils )
